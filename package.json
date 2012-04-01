@@ -4,7 +4,5 @@
     "description": "mybatis js helper",
     "keywords": ["mybatis", "sql"],
     "author": "Gabriel Munteanu (http://bash.editia.info/) <jajalinux@gmail.com>",
-    "jars": ["jars/mybatis-3.0.4.jar","jars/mybatishelper.jar","jars/postgresql.jar"],
-    "lib": ["lib"],
-    "lean": ["lib","jars"]
+    "main": "lib/mybatis.js"
 }
